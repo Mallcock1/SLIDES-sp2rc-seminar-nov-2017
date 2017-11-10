@@ -14,66 +14,67 @@
 \headcommand {\slideentry {1}{2}{1}{5/14}{Solar magneto-seismology (SMS)}{0}}
 \headcommand {\beamer@framepages {5}{14}}
 \headcommand {\beamer@subsectionentry {0}{1}{3}{15}{A brief history}}\headcommand {\beamer@subsectionpages {5}{14}}
-\headcommand {\slideentry {1}{3}{1}{15/20}{A brief history}{0}}
-\headcommand {\beamer@framepages {15}{20}}
-\headcommand {\slideentry {1}{3}{2}{21/29}{A brief history}{0}}
-\headcommand {\beamer@framepages {21}{29}}
-\headcommand {\sectionentry {2}{SMS with asymmetric wave-guides}{30}{SMS with asymmetric wave-guides}{0}}
-\headcommand {\beamer@sectionpages {3}{29}}
-\headcommand {\beamer@subsectionpages {15}{29}}
-\headcommand {\slideentry {2}{0}{1}{30/30}{}{0}}
-\headcommand {\beamer@framepages {30}{30}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{31}{Motivation}}\headcommand {\beamer@subsectionpages {30}{30}}
-\headcommand {\slideentry {2}{1}{1}{31/31}{Motivation}{0}}
+\headcommand {\slideentry {1}{3}{1}{15/21}{A brief history}{0}}
+\headcommand {\beamer@framepages {15}{21}}
+\headcommand {\slideentry {1}{3}{2}{22/30}{A brief history}{0}}
+\headcommand {\beamer@framepages {22}{30}}
+\headcommand {\sectionentry {2}{SMS with asymmetric wave-guides}{31}{SMS with asymmetric wave-guides}{0}}
+\headcommand {\beamer@sectionpages {3}{30}}
+\headcommand {\beamer@subsectionpages {15}{30}}
+\headcommand {\slideentry {2}{0}{1}{31/31}{}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {2}{1}{2}{32/32}{Motivation}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{32}{Motivation}}\headcommand {\beamer@subsectionpages {31}{31}}
+\headcommand {\slideentry {2}{1}{1}{32/32}{Motivation}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {2}{1}{3}{33/33}{Motivation}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{33}{Derivation}}\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\slideentry {2}{2}{1}{33/33}{Derivation}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {2}{1}{4}{34/34}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{2}{34/34}{Derivation}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {2}{1}{5}{35/35}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{3}{35/35}{Derivation}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {2}{1}{6}{36/36}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{4}{36/36}{Derivation}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\slideentry {2}{1}{7}{37/37}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{5}{37/37}{Derivation}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {2}{1}{8}{38/38}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{6}{38/38}{Derivation}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {2}{1}{9}{39/39}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{7}{39/39}{Derivation}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {2}{1}{10}{40/40}{Motivation}{0}}
+\headcommand {\slideentry {2}{2}{8}{40/40}{Derivation}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{41}{Mode identification}}\headcommand {\beamer@subsectionpages {31}{40}}
-\headcommand {\slideentry {2}{2}{1}{41/42}{Mode identification}{0}}
-\headcommand {\beamer@framepages {41}{42}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{43}{Amplitude ratio}}\headcommand {\beamer@subsectionpages {41}{42}}
-\headcommand {\slideentry {2}{3}{1}{43/43}{Amplitude ratio}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\slideentry {2}{3}{2}{44/48}{Amplitude ratio}{0}}
-\headcommand {\beamer@framepages {44}{48}}
-\headcommand {\beamer@subsectionentry {0}{2}{4}{49}{Minimum perturbation shift}}\headcommand {\beamer@subsectionpages {43}{48}}
-\headcommand {\slideentry {2}{4}{1}{49/49}{Minimum perturbation shift}{0}}
-\headcommand {\beamer@framepages {49}{49}}
-\headcommand {\slideentry {2}{4}{2}{50/50}{Minimum perturbation shift}{0}}
+\headcommand {\slideentry {2}{2}{9}{41/41}{Derivation}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{42}{Mode identification}}\headcommand {\beamer@subsectionpages {33}{41}}
+\headcommand {\slideentry {2}{3}{1}{42/43}{Mode identification}{0}}
+\headcommand {\beamer@framepages {42}{43}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{44}{Amplitude ratio}}\headcommand {\beamer@subsectionpages {42}{43}}
+\headcommand {\slideentry {2}{4}{1}{44/44}{Amplitude ratio}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {2}{4}{2}{45/49}{Amplitude ratio}{0}}
+\headcommand {\beamer@framepages {45}{49}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{50}{Minimum perturbation shift}}\headcommand {\beamer@subsectionpages {44}{49}}
+\headcommand {\slideentry {2}{5}{1}{50/50}{Minimum perturbation shift}{0}}
 \headcommand {\beamer@framepages {50}{50}}
-\headcommand {\slideentry {2}{4}{3}{51/55}{Minimum perturbation shift}{0}}
-\headcommand {\beamer@framepages {51}{55}}
-\headcommand {\sectionentry {3}{Looking ahead}{56}{Looking ahead}{0}}
-\headcommand {\beamer@sectionpages {30}{55}}
-\headcommand {\beamer@subsectionpages {49}{55}}
-\headcommand {\slideentry {3}{0}{1}{56/56}{}{0}}
-\headcommand {\beamer@framepages {56}{56}}
-\headcommand {\slideentry {3}{0}{2}{57/57}{}{0}}
+\headcommand {\slideentry {2}{5}{2}{51/51}{Minimum perturbation shift}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {2}{5}{3}{52/56}{Minimum perturbation shift}{0}}
+\headcommand {\beamer@framepages {52}{56}}
+\headcommand {\sectionentry {3}{Looking ahead}{57}{Looking ahead}{0}}
+\headcommand {\beamer@sectionpages {31}{56}}
+\headcommand {\beamer@subsectionpages {50}{56}}
+\headcommand {\slideentry {3}{0}{1}{57/57}{}{0}}
 \headcommand {\beamer@framepages {57}{57}}
-\headcommand {\slideentry {3}{0}{3}{58/58}{}{0}}
+\headcommand {\slideentry {3}{0}{2}{58/58}{}{0}}
 \headcommand {\beamer@framepages {58}{58}}
-\headcommand {\slideentry {3}{0}{4}{59/61}{}{0}}
-\headcommand {\beamer@framepages {59}{61}}
-\headcommand {\slideentry {3}{0}{5}{62/62}{}{0}}
-\headcommand {\beamer@framepages {62}{62}}
-\headcommand {\beamer@partpages {1}{62}}
-\headcommand {\beamer@subsectionpages {56}{62}}
-\headcommand {\beamer@sectionpages {56}{62}}
-\headcommand {\beamer@documentpages {62}}
+\headcommand {\slideentry {3}{0}{3}{59/59}{}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {3}{0}{4}{60/62}{}{0}}
+\headcommand {\beamer@framepages {60}{62}}
+\headcommand {\slideentry {3}{0}{5}{63/63}{}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\beamer@partpages {1}{63}}
+\headcommand {\beamer@subsectionpages {57}{63}}
+\headcommand {\beamer@sectionpages {57}{63}}
+\headcommand {\beamer@documentpages {63}}
 \headcommand {\def \inserttotalframenumber {29}}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.25)  10 NOV 2017 09:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.25)  10 NOV 2017 11:05
 entering extended mode
 **./sp2rc-seminar-slides.tex
 (sp2rc-seminar-slides.tex
@@ -1365,14 +1365,14 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 (sp2rc-seminar-slides.nav)
-<media/logo-sheffield-2.png, id=76, 403.5075pt x 173.448pt>
+<media/logo-sheffield-2.png, id=80, 403.5075pt x 173.448pt>
 File: media/logo-sheffield-2.png Graphic file (type png)
 
 <use media/logo-sheffield-2.png>
 Package pdftex.def Info: media/logo-sheffield-2.png used on input line 91.
 (pdftex.def)             Requested size: 66.18797pt x 28.45274pt.
 
-<media/sp2rc_logo2.png, id=78, 385.44pt x 379.016pt>
+<media/sp2rc_logo2.png, id=82, 385.44pt x 379.016pt>
 File: media/sp2rc_logo2.png Graphic file (type png)
 
 <use media/sp2rc_logo2.png>
@@ -1383,7 +1383,7 @@ Overfull \hbox (10.42558pt too wide) in paragraph at lines 91--91
  []| []| [] 
  []
 
-<media/eclipse-corona-aug-2017.jpg, id=79, 240.9pt x 160.4394pt>
+<media/eclipse-corona-aug-2017.jpg, id=83, 240.9pt x 160.4394pt>
 File: media/eclipse-corona-aug-2017.jpg Graphic file (type jpg)
 
 <use media/eclipse-corona-aug-2017.jpg>
@@ -1399,7 +1399,7 @@ sp2rc_logo2.png>]
 ] (sp2rc-seminar-slides.toc) [3
 
 ]
-<media/helioseismology.png, id=139, 326.21875pt x 326.21875pt>
+<media/helioseismology.png, id=146, 326.21875pt x 326.21875pt>
 File: media/helioseismology.png Graphic file (type png)
 
 <use media/helioseismology.png>
@@ -1422,7 +1422,7 @@ line 137.
 mss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) <media/coronal_loop_oscillations.png, id=142, 1284.8pt x 740.7675pt>
+) <media/coronal_loop_oscillations.png, id=149, 1284.8pt x 740.7675pt>
 File: media/coronal_loop_oscillations.png Graphic file (type png)
 
 <use media/coronal_loop_oscillations.png>
@@ -1507,121 +1507,158 @@ Overfull \hbox (5.6903pt too wide) in paragraph at lines 209--209
 
 [14
 
-] [15
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
 
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-] [20
+[15
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+[16
+
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+[17
+
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+[18
+
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+[19
+
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
+[][]  
+ []
+
+[20
+
+]
+Overfull \hbox (9.60352pt too wide) in paragraph at lines 245--245
 [][]  
  []
 
 [21
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [22
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [23
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [24
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [25
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [26
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [27
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [28
 
 ]
-Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
 [][]  
  []
 
 [29
 
-] (sp2rc-seminar-slides.toc) [30
+]
+Overfull \hbox (3.13477pt too wide) in paragraph at lines 291--291
+[][]  
+ []
+
+[30
+
+] (sp2rc-seminar-slides.toc) [31
 
 ]
-<media/hinode-prominence.jpg, id=302, 1541.76pt x 782.925pt>
+<media/hinode-prominence.jpg, id=317, 1541.76pt x 782.925pt>
 File: media/hinode-prominence.jpg Graphic file (type jpg)
 
 <use media/hinode-prominence.jpg>
-Package pdftex.def Info: media/hinode-prominence.jpg used on input line 307.
+Package pdftex.def Info: media/hinode-prominence.jpg used on input line 310.
 (pdftex.def)             Requested size: 252.12099pt x 128.0374pt.
 
-<media/sunspot_lightbridge.png, id=303, 192.72pt x 125.0271pt>
+<media/sunspot_lightbridge.png, id=318, 192.72pt x 125.0271pt>
 File: media/sunspot_lightbridge.png Graphic file (type png)
 
 <use media/sunspot_lightbridge.png>
-Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 307.
+Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 310.
 (pdftex.def)             Requested size: 153.50572pt x 99.58464pt.
 
-<media/granules.jpg, id=304, 451.6875pt x 451.6875pt>
+<media/granules.jpg, id=319, 451.6875pt x 451.6875pt>
 File: media/granules.jpg Graphic file (type jpg)
  <use media/granules.jpg>
-Package pdftex.def Info: media/granules.jpg used on input line 307.
+Package pdftex.def Info: media/granules.jpg used on input line 310.
 (pdftex.def)             Requested size: 99.5852pt x 99.58464pt.
 
-Overfull \vbox (15.38483pt too high) detected at line 307
- []
-
-[31
-
- <./media/hinode-prominence.jpg> <./media/sunspot_lightbridge.png> <./media/gra
-nules.jpg>]
-Overfull \hbox (3.55235pt too wide) in paragraph at lines 382--382
- [] 
+Overfull \vbox (15.38483pt too high) detected at line 310
  []
 
 [32
 
-] [33
+ <./media/hinode-prominence.jpg> <./media/sunspot_lightbridge.png> <./media/gra
+nules.jpg>]
+Overfull \hbox (3.55235pt too wide) in paragraph at lines 387--387
+ [] 
+ []
+
+[33
+
+] [34
 
 ]
-Overfull \hbox (7.0339pt too wide) detected at line 458
+Overfull \hbox (7.0339pt too wide) detected at line 463
 \OT1/mathkerncmss/m/sl/10.95 v[]\OT1/cmss/m/n/10.95 (\OT1/cmss/bx/n/10.95 x\OML
 /cmm/m/it/10.95 ; \OT1/mathkerncmss/m/sl/10.95 t\OT1/cmss/m/n/10.95 ) = [](\OT1
 /mathkerncmss/m/sl/10.95 x\OT1/cmss/m/n/10.95 )\OT1/mathkerncmss/m/sl/10.95 e[]
@@ -1633,42 +1670,30 @@ l/10.95 t\OT1/cmss/m/n/10.95 ) = [](\OT1/mathkerncmss/m/sl/10.95 x\OT1/cmss/m/n
 /10.95 )\OT1/mathkerncmss/m/sl/10.95 e[]\OML/cmm/m/it/10.95 ;
  []
 
-[34
+[35
 
-] [35
+] [36
 
-] <media/black_square.png, id=395, 1927.2pt x 1084.05pt>
+] <media/black_square.png, id=407, 1927.2pt x 1084.05pt>
 File: media/black_square.png Graphic file (type png)
 
 <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 522.
+Package pdftex.def Info: media/black_square.png used on input line 527.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
 <<media/R1_2.0_slow-kink-surf_mag_front_video_overlay2_looped.mp4>>
-Overfull \hbox (6.60503pt too wide) in paragraph at lines 522--522
- |  [][][][] 
- []
-
-[36
-
- <./media/black_square.png>]
-File: media/black_square.png Graphic file (type png)
- <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 540.
-(pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
-<<media/R1_1.9_slow-kink-surf_mag_front_video_overlay2_looped.mp4>>
-Overfull \hbox (6.60503pt too wide) in paragraph at lines 540--540
+Overfull \hbox (6.60503pt too wide) in paragraph at lines 527--527
  |  [][][][] 
  []
 
 [37
 
-]
+ <./media/black_square.png>]
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 558.
+Package pdftex.def Info: media/black_square.png used on input line 545.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
-<<media/R1_2.0_slow-saus-surf_mag_front_video_overlay2_looped.mp4>>
-Overfull \hbox (6.60503pt too wide) in paragraph at lines 558--558
+<<media/R1_1.9_slow-kink-surf_mag_front_video_overlay2_looped.mp4>>
+Overfull \hbox (6.60503pt too wide) in paragraph at lines 545--545
  |  [][][][] 
  []
 
@@ -1677,10 +1702,10 @@ Overfull \hbox (6.60503pt too wide) in paragraph at lines 558--558
 ]
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 576.
+Package pdftex.def Info: media/black_square.png used on input line 563.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
-<<media/R1_1.9_slow-saus-surf_mag_front_video_overlay2_looped.mp4>>
-Overfull \hbox (6.60503pt too wide) in paragraph at lines 576--576
+<<media/R1_2.0_slow-saus-surf_mag_front_video_overlay2_looped.mp4>>
+Overfull \hbox (6.60503pt too wide) in paragraph at lines 563--563
  |  [][][][] 
  []
 
@@ -1689,145 +1714,157 @@ Overfull \hbox (6.60503pt too wide) in paragraph at lines 576--576
 ]
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 656.
+Package pdftex.def Info: media/black_square.png used on input line 581.
+(pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
+<<media/R1_1.9_slow-saus-surf_mag_front_video_overlay2_looped.mp4>>
+Overfull \hbox (6.60503pt too wide) in paragraph at lines 581--581
+ |  [][][][] 
+ []
+
+[40
+
+]
+File: media/black_square.png Graphic file (type png)
+ <use media/black_square.png>
+Package pdftex.def Info: media/black_square.png used on input line 661.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
 <<media/R1_1.8_fast-kink-body-1_front_video_overlay2_looped.mp4>>
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 656.
+Package pdftex.def Info: media/black_square.png used on input line 661.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
 <<media/R1_1.8_fast-saus-body-1_front_video_overlay2_looped.mp4>>
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 656.
+Package pdftex.def Info: media/black_square.png used on input line 661.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
 <<media/R1_1.8_fast-kink-body-2_front_video_overlay2_looped.mp4>>
 File: media/black_square.png Graphic file (type png)
  <use media/black_square.png>
-Package pdftex.def Info: media/black_square.png used on input line 656.
+Package pdftex.def Info: media/black_square.png used on input line 661.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
-<<media/R1_1.8_fast-saus-body-2_front_video_overlay2_looped.mp4>> [40
+<<media/R1_1.8_fast-saus-body-2_front_video_overlay2_looped.mp4>> [41
 
 ]
-<media/mor12.jpg, id=502, 929.4725pt x 892.33376pt>
+<media/mor12.jpg, id=514, 929.4725pt x 892.33376pt>
 File: media/mor12.jpg Graphic file (type jpg)
  <use media/mor12.jpg>
-Package pdftex.def Info: media/mor12.jpg used on input line 703.
+Package pdftex.def Info: media/mor12.jpg used on input line 708.
 (pdftex.def)             Requested size: 148.1797pt x 142.26378pt.
 
-[41
+[42
 
  <./media/mor12.jpg>]
 File: media/mor12.jpg Graphic file (type jpg)
  <use media/mor12.jpg>
-Package pdftex.def Info: media/mor12.jpg used on input line 703.
+Package pdftex.def Info: media/mor12.jpg used on input line 708.
 (pdftex.def)             Requested size: 148.1797pt x 142.26378pt.
- [42
-
-] [43
+ [43
 
 ] [44
 
 ] [45
 
+] [46
+
 ]
-Overfull \hbox (7.35736pt too wide) in paragraph at lines 812--812
+Overfull \hbox (7.35736pt too wide) in paragraph at lines 817--817
 []|  [] 
  []
 
-[46
+[47
 
-] [47
+] [48
 
-] <media/RA_vA_approx_2var.png, id=546, 578.16pt x 433.62pt>
+] <media/RA_vA_approx_2var.png, id=558, 578.16pt x 433.62pt>
 File: media/RA_vA_approx_2var.png Graphic file (type png)
 
 <use media/RA_vA_approx_2var.png>
-Package pdftex.def Info: media/RA_vA_approx_2var.png used on input line 812.
+Package pdftex.def Info: media/RA_vA_approx_2var.png used on input line 817.
 (pdftex.def)             Requested size: 227.62523pt x 170.71652pt.
 
-Overfull \vbox (40.22325pt too high) detected at line 812
+Overfull \vbox (40.22325pt too high) detected at line 817
  []
 
-[48
+[49
 
- <./media/RA_vA_approx_2var.png>] [49
-
-] [50
+ <./media/RA_vA_approx_2var.png>] [50
 
 ] [51
 
 ] [52
 
+] [53
+
 ]
-Overfull \hbox (34.10767pt too wide) in paragraph at lines 1176--1176
+Overfull \hbox (34.10767pt too wide) in paragraph at lines 1181--1181
 []|  [] 
  []
 
-[53
+[54
 
-] [54
+] [55
 
-] <media/DM_vA_approx_2var.png, id=584, 578.16pt x 433.62pt>
+] <media/DM_vA_approx_2var.png, id=597, 578.16pt x 433.62pt>
 File: media/DM_vA_approx_2var.png Graphic file (type png)
 
 <use media/DM_vA_approx_2var.png>
-Package pdftex.def Info: media/DM_vA_approx_2var.png used on input line 1176.
+Package pdftex.def Info: media/DM_vA_approx_2var.png used on input line 1181.
 (pdftex.def)             Requested size: 227.62523pt x 170.71652pt.
 
-Overfull \vbox (40.22325pt too high) detected at line 1176
+Overfull \vbox (40.22325pt too high) detected at line 1181
  []
 
-[55
+[56
 
- <./media/DM_vA_approx_2var.png>] (sp2rc-seminar-slides.toc) [56
+ <./media/DM_vA_approx_2var.png>] (sp2rc-seminar-slides.toc) [57
 
-] [57
+] [58
 
 ]
-[58
+[59
 
-] <media/mbptogether_invert.png, id=724, 2409.0pt x 1296.845pt>
+] <media/mbptogether_invert.png, id=737, 2409.0pt x 1296.845pt>
 File: media/mbptogether_invert.png Graphic file (type png)
 
 <use media/mbptogether_invert.png>
-Package pdftex.def Info: media/mbptogether_invert.png used on input line 1389.
+Package pdftex.def Info: media/mbptogether_invert.png used on input line 1394.
 (pdftex.def)             Requested size: 184.96793pt x 99.58464pt.
- [59
+ [60
 
  <./media/mbptogether_invert.png>]
 File: media/hinode-prominence.jpg Graphic file (type jpg)
 
 <use media/hinode-prominence.jpg>
-Package pdftex.def Info: media/hinode-prominence.jpg used on input line 1389.
+Package pdftex.def Info: media/hinode-prominence.jpg used on input line 1394.
 (pdftex.def)             Requested size: 196.08365pt x 99.58464pt.
- [60
+ [61
 
 ]
 File: media/sunspot_lightbridge.png Graphic file (type png)
  <use media/sunspot_lightbridge.png>
-Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 1389.
+Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 1394.
 
 (pdftex.def)             Requested size: 153.50572pt x 99.58464pt.
 
-[61
+[62
 
-] <media/twitter-icon.png, id=742, 256.96pt x 256.96pt>
+] <media/twitter-icon.png, id=755, 256.96pt x 256.96pt>
 File: media/twitter-icon.png Graphic file (type png)
 
 <use media/twitter-icon.png>
-Package pdftex.def Info: media/twitter-icon.png used on input line 1412.
+Package pdftex.def Info: media/twitter-icon.png used on input line 1417.
 (pdftex.def)             Requested size: 17.07155pt x 17.07182pt.
 File: media/logo-sheffield-2.png Graphic file (type png)
  <use media/logo-sheffield-2.png>
-Package pdftex.def Info: media/logo-sheffield-2.png used on input line 1412.
+Package pdftex.def Info: media/logo-sheffield-2.png used on input line 1417.
 (pdftex.def)             Requested size: 99.28812pt x 42.67912pt.
 File: media/sp2rc_logo2.png Graphic file (type png)
 
 <use media/sp2rc_logo2.png>
-Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1412.
+Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1417.
 (pdftex.def)             Requested size: 46.29196pt x 45.52458pt.
- [62
+ [63
 
  <./media/twitter-icon.png>]
 \tf@nav=\write6
@@ -1839,26 +1876,21 @@ Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1412.
 \tf@snm=\write8
 \openout8 = `sp2rc-seminar-slides.snm'.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1419.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1419.
 
-*************************************************
-* media9 warning: "rerun"
-* 
-* Rerun to get internal references right!
-*************************************************
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1414.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1414.
 (sp2rc-seminar-slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1414.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1414.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1419.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1419.
 
 Package rerunfilecheck Info: File `sp2rc-seminar-slides.out' has not changed.
-(rerunfilecheck)             Checksum: 858EBAD87E7FE40BDB9559DA17D4C5A3;653.
+(rerunfilecheck)             Checksum: 64461689A0B63790F9158B015DE6A3C0;715.
  ) 
 Here is how much of TeX's memory you used:
- 33442 strings out of 493323
- 698527 string characters out of 3139069
- 811848 words of memory out of 3000000
- 36223 multiletter control sequences out of 15000+200000
+ 33448 strings out of 493323
+ 698594 string characters out of 3139069
+ 811892 words of memory out of 3000000
+ 36226 multiletter control sequences out of 15000+200000
  557324 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,22n,83p,10383b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1886,9 +1918,9 @@ cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi
 9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on sp2rc-seminar-slides.pdf (62 pages, 28619489 bytes).
+Output written on sp2rc-seminar-slides.pdf (63 pages, 28624778 bytes).
 PDF statistics:
- 868 PDF objects out of 1000 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
- 1073 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 882 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 1081 words of extra memory for PDF output out of 10000 (max. 10000000)
 

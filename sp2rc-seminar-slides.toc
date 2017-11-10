@@ -2,9 +2,10 @@
 \beamer@subsectionintoc {1}{1}{Waves on the Sun}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Solar magneto-seismology (SMS)}{5}{0}{1}
 \beamer@subsectionintoc {1}{3}{A brief history}{15}{0}{1}
-\beamer@sectionintoc {2}{SMS with asymmetric wave-guides}{30}{0}{2}
-\beamer@subsectionintoc {2}{1}{Motivation}{31}{0}{2}
-\beamer@subsectionintoc {2}{2}{Mode identification}{41}{0}{2}
-\beamer@subsectionintoc {2}{3}{Amplitude ratio}{43}{0}{2}
-\beamer@subsectionintoc {2}{4}{Minimum perturbation shift}{49}{0}{2}
-\beamer@sectionintoc {3}{Looking ahead}{56}{0}{3}
+\beamer@sectionintoc {2}{SMS with asymmetric wave-guides}{31}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{32}{0}{2}
+\beamer@subsectionintoc {2}{2}{Derivation}{33}{0}{2}
+\beamer@subsectionintoc {2}{3}{Mode identification}{42}{0}{2}
+\beamer@subsectionintoc {2}{4}{Amplitude ratio}{44}{0}{2}
+\beamer@subsectionintoc {2}{5}{Minimum perturbation shift}{50}{0}{2}
+\beamer@sectionintoc {3}{Looking ahead}{57}{0}{3}

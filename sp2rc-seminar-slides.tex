@@ -105,7 +105,7 @@
 \begin{columns}
 \begin{column}{0.5\textwidth}
     \begin{center}
-	Global pressure waves (p-modes):
+	Global pressure waves (\textit{p}-modes):
 	\begin{itemize}
 	\item Standing modes,
 	\item Spherical harmonics with global Sun as cavity,
@@ -213,7 +213,7 @@
 
 \begin{frame}
 \frametitle{Solar magneto-seismology}
-\framesubtitle{A brief history - \textcolor{yellow}{temporal} and \textcolor{cyan}{spatial} seismology}
+\framesubtitle{A brief history - \textcolor{orange}{temporal} and \textcolor{cyan}{spatial} seismology}
 \begin{tikzpicture}[datemarker/.style={circle,draw=white,fill=white,radius=2pt}, 
 textlabel/.style={anchor=west, font=\footnotesize}, temp/.style={color=yellow}, spat/.style={color=cyan}] 
 \draw [<-, ultra thick] (0,-0.5) -- (0,7);
@@ -229,6 +229,10 @@ textlabel/.style={anchor=west, font=\footnotesize}, temp/.style={color=yellow}, 
 \draw (0.1, 6.7) node [textlabel, temp] {Rosenburg 1970 - \textbf{MHD waves} cause pulsations in};
 \draw (2.6, 6.4) node [textlabel, temp] {synchrotron radiation with measuable period}; 
 \pause
+\node at (0, 5.8) [datemarker] {}; 
+\draw (0.1, 5.8) node [textlabel, temp] {Zeitsev and Stepanov, 1975 - pulsations of type IV solar radio emission};
+\draw (4.2, 5.5) node [textlabel, temp] {due to plasma cylinder oscillations};
+\pause
 \node at (0, 3.5) [datemarker] {}; 
 \draw (0.1, 3.5) node [textlabel, temp] {Roberts \textit{et al.} 1984 - \textbf{coronal} context};
 \pause
@@ -236,15 +240,14 @@ textlabel/.style={anchor=west, font=\footnotesize}, temp/.style={color=yellow}, 
 \draw (0.1, 1.) node [textlabel, temp] {Tandberg Hanssen \textit{et al.} 1995 - \textbf{prominence} context};
 \pause
 \node at (0, 0.2) [datemarker] {}; 
-\draw (0.1, 0.2) node [textlabel] {Coronal loop oscillations observed! Aschwanden \textit{et al.} 1999;};
-\draw (4.9, -0.1) node [textlabel] {Nakariakov \textit{et al.} 1999};
+\draw (0.1, 0.2) node [textlabel] {Coronal loop oscillations imaged! Aschwanden \textit{et al.} 1999};
 \end{tikzpicture}
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Solar magneto-seismology}
-\framesubtitle{A brief history - \textcolor{yellow}{temporal} and \textcolor{cyan}{spatial} seismology}
+\framesubtitle{A brief history - \textcolor{orange}{temporal} and \textcolor{cyan}{spatial} seismology}
 \begin{tikzpicture}[datemarker/.style={circle,draw=white,fill=white,radius=2pt}, 
 textlabel/.style={anchor=west, font=\footnotesize}, temp/.style={color=yellow}, spat/.style={color=cyan}]
 \draw [<-, ultra thick] (0,-0.5) -- (0,7);
@@ -306,6 +309,8 @@ textlabel/.style={anchor=west, font=\footnotesize}, temp/.style={color=yellow}, 
 \tiny{Max Planck Institute for Solar System Research \hspace*{3.6cm} BBSO/NJIT}
 \end{frame}
 
+
+\subsection{Derivation}
 
 \begin{frame}
 \frametitle{Asymmetric magnetic slab}
@@ -1151,7 +1156,7 @@ Analytical inversion
 \tiny
 \begin{tabular}{llccc}
   \toprule
-Mode & \multicolumn{3}{c}{Approximation of $k^2v_{\textrm{A}}^2 / \omega^2$ using minimum perturbation shift, $\Delta_{\textrm{min}}$} \\
+Mode & \multicolumn{3}{c}{Approximation of $k^2\textcolor{red}{v_{\textrm{A}}}^2 / \omega^2$ using minimum perturbation shift, $\Delta_{\textrm{min}}$} \\
 \cmidrule(lr){2-4}
 & Thin slab & Incompressible & Low-beta \\
   \midrule
@@ -1180,7 +1185,7 @@ Numerical inversion
 
 \begin{frame}
 \frametitle{Further work}
-Add \textcolor{red}{\textbf{magnetic field}} outside the slab to model coronal structures. See \textbf{Zs\'{a}mberger}, \textbf{Allcock} and \textbf{Erd\'{e}lyi}, submitted.
+Add \textcolor{red}{\textbf{magnetic field}} outside the slab to model coronal structures. See \textbf{Zs\'{a}mberger}, \textbf{Allcock}, and \textbf{Erd\'{e}lyi}, recommended for publication in ApJ.
 
 \begin{figure}
 \centering
@@ -1385,7 +1390,7 @@ Apply to observations of MHD waves in, for example:
 \tiny
 \only<2>{NASA}
 \only<3>{Max Planck Institute for Solar System Research}
-\only<1>{Adaptation of Liu et al., 2017, by N. Zs\'{a}mberger}
+\only<1>{Adaptation of Liu et al., 2017, by Zs\'{a}mberger \textit{et al.}}
 \end{frame}
 
 
