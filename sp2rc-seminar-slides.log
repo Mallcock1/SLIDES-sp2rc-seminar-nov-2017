@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.25)  9 NOV 2017 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.25)  10 NOV 2017 09:14
 entering extended mode
 **./sp2rc-seminar-slides.tex
 (sp2rc-seminar-slides.tex
@@ -1185,29 +1185,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\new@ifnextchar' on input line 67.
 
-(sp2rc-seminar-slides.aux
-
-LaTeX Warning: Label `current<1>' multiply defined.
-
-
-LaTeX Warning: Label `current' multiply defined.
-
-
-LaTeX Warning: Label `current<2>' multiply defined.
-
-
-LaTeX Warning: Label `current<3>' multiply defined.
-
-
-LaTeX Warning: Label `current<4>' multiply defined.
-
-
-LaTeX Warning: Label `current<5>' multiply defined.
-
-
-LaTeX Warning: Label `current<6>' multiply defined.
-
-)
+(sp2rc-seminar-slides.aux)
 \openout1 = `sp2rc-seminar-slides.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
@@ -1541,77 +1519,42 @@ Overfull \hbox (5.6903pt too wide) in paragraph at lines 209--209
 
 ] [20
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<1>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 pdfTeX warning (ext4): destination with the same identifier (n
-ame{current}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
 [21
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<2>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
 [22
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<3>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
 [23
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<4>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
 [24
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<5>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
 
 [25
 
-]pdfTeX warning (ext4): destination with the same identifier (name{current<6>})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.288 \end{frame}
-                 
+]
 Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 [][]  
  []
@@ -1642,21 +1585,21 @@ Overfull \hbox (3.13477pt too wide) in paragraph at lines 288--288
 ] (sp2rc-seminar-slides.toc) [30
 
 ]
-<media/hinode-prominence.jpg, id=312, 1541.76pt x 782.925pt>
+<media/hinode-prominence.jpg, id=302, 1541.76pt x 782.925pt>
 File: media/hinode-prominence.jpg Graphic file (type jpg)
 
 <use media/hinode-prominence.jpg>
 Package pdftex.def Info: media/hinode-prominence.jpg used on input line 307.
 (pdftex.def)             Requested size: 252.12099pt x 128.0374pt.
 
-<media/sunspot_lightbridge.png, id=313, 192.72pt x 125.0271pt>
+<media/sunspot_lightbridge.png, id=303, 192.72pt x 125.0271pt>
 File: media/sunspot_lightbridge.png Graphic file (type png)
 
 <use media/sunspot_lightbridge.png>
 Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 307.
 (pdftex.def)             Requested size: 153.50572pt x 99.58464pt.
 
-<media/granules.jpg, id=314, 451.6875pt x 451.6875pt>
+<media/granules.jpg, id=304, 451.6875pt x 451.6875pt>
 File: media/granules.jpg Graphic file (type jpg)
  <use media/granules.jpg>
 Package pdftex.def Info: media/granules.jpg used on input line 307.
@@ -1694,7 +1637,7 @@ l/10.95 t\OT1/cmss/m/n/10.95 ) = [](\OT1/mathkerncmss/m/sl/10.95 x\OT1/cmss/m/n
 
 ] [35
 
-] <media/black_square.png, id=405, 1927.2pt x 1084.05pt>
+] <media/black_square.png, id=395, 1927.2pt x 1084.05pt>
 File: media/black_square.png Graphic file (type png)
 
 <use media/black_square.png>
@@ -1766,7 +1709,7 @@ Package pdftex.def Info: media/black_square.png used on input line 656.
 <<media/R1_1.8_fast-saus-body-2_front_video_overlay2_looped.mp4>> [40
 
 ]
-<media/mor12.jpg, id=511, 929.4725pt x 892.33376pt>
+<media/mor12.jpg, id=502, 929.4725pt x 892.33376pt>
 File: media/mor12.jpg Graphic file (type jpg)
  <use media/mor12.jpg>
 Package pdftex.def Info: media/mor12.jpg used on input line 703.
@@ -1796,7 +1739,7 @@ Overfull \hbox (7.35736pt too wide) in paragraph at lines 812--812
 
 ] [47
 
-] <media/RA_vA_approx_2var.png, id=557, 578.16pt x 433.62pt>
+] <media/RA_vA_approx_2var.png, id=546, 578.16pt x 433.62pt>
 File: media/RA_vA_approx_2var.png Graphic file (type png)
 
 <use media/RA_vA_approx_2var.png>
@@ -1825,7 +1768,7 @@ Overfull \hbox (34.10767pt too wide) in paragraph at lines 1176--1176
 
 ] [54
 
-] <media/DM_vA_approx_2var.png, id=596, 578.16pt x 433.62pt>
+] <media/DM_vA_approx_2var.png, id=584, 578.16pt x 433.62pt>
 File: media/DM_vA_approx_2var.png Graphic file (type png)
 
 <use media/DM_vA_approx_2var.png>
@@ -1842,47 +1785,49 @@ Overfull \vbox (40.22325pt too high) detected at line 1176
 ] [57
 
 ]
-<media/mbptogether_invert.png, id=688, 2409.0pt x 1296.845pt>
+[58
+
+] <media/mbptogether_invert.png, id=724, 2409.0pt x 1296.845pt>
 File: media/mbptogether_invert.png Graphic file (type png)
 
 <use media/mbptogether_invert.png>
-Package pdftex.def Info: media/mbptogether_invert.png used on input line 1301.
+Package pdftex.def Info: media/mbptogether_invert.png used on input line 1389.
 (pdftex.def)             Requested size: 184.96793pt x 99.58464pt.
- [58
+ [59
 
  <./media/mbptogether_invert.png>]
 File: media/hinode-prominence.jpg Graphic file (type jpg)
 
 <use media/hinode-prominence.jpg>
-Package pdftex.def Info: media/hinode-prominence.jpg used on input line 1301.
+Package pdftex.def Info: media/hinode-prominence.jpg used on input line 1389.
 (pdftex.def)             Requested size: 196.08365pt x 99.58464pt.
- [59
+ [60
 
 ]
 File: media/sunspot_lightbridge.png Graphic file (type png)
  <use media/sunspot_lightbridge.png>
-Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 1301.
+Package pdftex.def Info: media/sunspot_lightbridge.png used on input line 1389.
 
 (pdftex.def)             Requested size: 153.50572pt x 99.58464pt.
 
-[60
+[61
 
-] <media/twitter-icon.png, id=706, 256.96pt x 256.96pt>
+] <media/twitter-icon.png, id=742, 256.96pt x 256.96pt>
 File: media/twitter-icon.png Graphic file (type png)
 
 <use media/twitter-icon.png>
-Package pdftex.def Info: media/twitter-icon.png used on input line 1324.
+Package pdftex.def Info: media/twitter-icon.png used on input line 1412.
 (pdftex.def)             Requested size: 17.07155pt x 17.07182pt.
 File: media/logo-sheffield-2.png Graphic file (type png)
  <use media/logo-sheffield-2.png>
-Package pdftex.def Info: media/logo-sheffield-2.png used on input line 1324.
+Package pdftex.def Info: media/logo-sheffield-2.png used on input line 1412.
 (pdftex.def)             Requested size: 99.28812pt x 42.67912pt.
 File: media/sp2rc_logo2.png Graphic file (type png)
 
 <use media/sp2rc_logo2.png>
-Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1324.
+Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1412.
 (pdftex.def)             Requested size: 46.29196pt x 45.52458pt.
- [61
+ [62
 
  <./media/twitter-icon.png>]
 \tf@nav=\write6
@@ -1900,75 +1845,50 @@ Package pdftex.def Info: media/sp2rc_logo2.png used on input line 1324.
 * 
 * Rerun to get internal references right!
 *************************************************
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1326.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1326.
-(sp2rc-seminar-slides.aux
-*************************************************
-* pdfbase warning: "rerun"
-* 
-* Rerun to get internal references right!
-*************************************************
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1414.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1414.
+(sp2rc-seminar-slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1414.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1414.
 
-
-
-Package rerunfilecheck Warning: File `sp2rc-seminar-slides.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `sp2rc-seminar-slides.out':
-(rerunfilecheck)             Before: 405FE3F578FD1D36772D0AF3A382DCD9;653
-(rerunfilecheck)             After:  858EBAD87E7FE40BDB9559DA17D4C5A3;653.
-
-LaTeX Warning: There were multiply-defined labels.
-
+Package rerunfilecheck Info: File `sp2rc-seminar-slides.out' has not changed.
+(rerunfilecheck)             Checksum: 858EBAD87E7FE40BDB9559DA17D4C5A3;653.
  ) 
 Here is how much of TeX's memory you used:
- 33451 strings out of 493323
- 698618 string characters out of 3139069
- 804238 words of memory out of 3000000
+ 33442 strings out of 493323
+ 698527 string characters out of 3139069
+ 811848 words of memory out of 3000000
  36223 multiletter control sequences out of 15000+200000
  557324 words of font info for 103 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,22n,83p,10383b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Outline0.2.4.47} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.3.41} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.2.39} has been referenced but does not e
-xist, replaced by a fixed one
-
- <C:\Users\Matt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecs
-o1000.pk> <C:\Users\Matt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi657\ecso1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex
-7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi9.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on sp2rc-seminar-slides.pdf (61 pages, 28608071 bytes).
+ <C:\Users\Matt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+cso1000.pk> <C:\Users\Matt\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi657\ecso1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cm
+ex7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi
+9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on sp2rc-seminar-slides.pdf (62 pages, 28619489 bytes).
 PDF statistics:
- 835 PDF objects out of 1000 (max. 8388607)
- 146 named destinations out of 1000 (max. 500000)
- 947 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 868 PDF objects out of 1000 (max. 8388607)
+ 137 named destinations out of 1000 (max. 500000)
+ 1073 words of extra memory for PDF output out of 10000 (max. 10000000)
 
